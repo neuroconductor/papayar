@@ -3,3 +3,8 @@
 
 README.md
 ^\.travis\.yml$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
